@@ -75,7 +75,7 @@ a:hover{
 	height: 272px;
 	margin-left: -71.5px;
 	background: url('../img/rocket-state1.png') no-repeat 0 0; 
-	transition: bottom 7500ms;
+	transition: bottom 75000ms;
 }
 body.body-state1 .rocket{
 	transition: none;
